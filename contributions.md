@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 9   | https://www.openstreetmap.org/changeset/178319707    | Open Street Map   |   I fixed the name of a school that changed buildings in 2010.    |
 |     |     |     |      |
 |     |     |     |      |
