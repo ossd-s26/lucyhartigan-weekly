@@ -35,12 +35,12 @@ future: true
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: lmh8583@nyu.edu
   facebook:
   flickr:
-  github: ossd-s26
-  instagram:
-  linkedin:
+  github: lucyhartigan
+  instagram: lucyhartigan
+  linkedin: https://www.linkedin.com/in/lucy-hartigan-13327b219/
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
