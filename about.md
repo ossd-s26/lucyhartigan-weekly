@@ -12,7 +12,7 @@ Outside of school, I spend a lot of time sewing, listening to vinyl, and spendin
 
 Currently Reading: Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin
 
-2026 Reading List:
+2026 Reading Log:
 - Madonna in a Fur Coat
 - Blue Sisters
 - Never Let Me Go
