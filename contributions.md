@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 9   | [Open Street Map](https://www.openstreetmap.org/changeset/178319707)    | Open Street Map   |   I fixed the name of a school that changed buildings in 2010.    |
-|   Feb 9  |  [Open Street Map](https://www.openstreetmap.org/changeset/178320343#map=19/40.737566/-74.030647)   |  Open Street Map   |   Fix name of storefront from Walgreens to Whole Foods   |
+| Feb 9   | [Open Street Map](https://www.openstreetmap.org/changeset/178319707)    | Open Street Map feature  |   I fixed the name of a school that changed buildings in 2010.    |
+|   Feb 9  |  [Open Street Map](https://www.openstreetmap.org/changeset/178320343)   |  Open Street Map feature  |   Fix name of storefront from Walgreens to Whole Foods   |
 |     |     |     |      |
