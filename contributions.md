@@ -17,9 +17,6 @@ Replace the first row with your own contribution.
 -->
 
 
-
-
-
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 9   | [Open Street Map](https://www.openstreetmap.org/changeset/178319707)    | Open Street Map feature  |   I fixed the name of a school that changed buildings in 2010.    |
