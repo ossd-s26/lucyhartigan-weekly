@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey everyone! My name is Lucy Hartigan and I am a Senior studying Computer Science and Global Liberal Studies at NYU. In my blog I will be reflecting on my experience with Open Source Software Development, I can't wait to get started.
+Hey everyone! My name is Lucy Hartigan and I am a Senior studying Computer Science and Global Liberal Studies at NYU. I officially will be joing Box Inc as a full time Software Engineer once I graduate this spring! In my blog I will be reflecting on my experience with Open Source Software Development, I can't wait to get started.
 
 ### More Information
 
