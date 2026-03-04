@@ -10,7 +10,7 @@ Hey everyone! My name is Lucy Hartigan and I am a Senior studying Computer Scien
 
 Outside of school, I spend a lot of time sewing, listening to vinyl, and spending time with friends. I recently have been relearning the guitar and am trying to read at least one book a month.
 
-Currently Reading: Sunburn by Chloe Michelle Howarth
+Currently Reading: East of Eden by John Steinbeck
 
 2026 Reading Log:
 - Madonna in a Fur Coat
@@ -19,3 +19,4 @@ Currently Reading: Sunburn by Chloe Michelle Howarth
 - Tomorrow and Tomorrow and Tomorrow
 - Virgin Suicides
 - The Year of Magical Thinking
+- Sunburn
