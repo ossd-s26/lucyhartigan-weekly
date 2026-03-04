@@ -13,6 +13,7 @@ Outside of school, I spend a lot of time sewing, listening to vinyl, and spendin
 Currently Reading: East of Eden by John Steinbeck
 
 2026 Reading Log:
+- All About Love
 - Madonna in a Fur Coat
 - Blue Sisters
 - Never Let Me Go
