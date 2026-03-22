@@ -23,3 +23,4 @@ Replace the first row with your own contribution.
 |   Feb 9  |  [Open Street Map](https://www.openstreetmap.org/changeset/178320343)   |  Open Street Map feature  |   Fix name of storefront from Walgreens to Whole Foods   |
 |   Feb 20  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Dimitr%C3%A9_Dinev&diff=prev&oldid=1339465903)   |   Wikipedia Edit  |   Add links between articles   |
 |   Feb 20  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=The_Two_Fires_(poem)&diff=prev&oldid=1339465798)   |   Wikipedia Edit  |   Add links between articles   |
+|   March 20  |  [Course Site](https://github.com/joannakl/ossd/issues/161)   |   Course Site  |   Report an Issue   |
